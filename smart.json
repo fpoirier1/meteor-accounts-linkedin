@@ -6,6 +6,8 @@
   "version": "0.0.6",
   "git": "https://github.com/fpoirier1/meteor-accounts-linkedin.git",
   "packages": {
-    "linkedin": "0.0.3"
+    "linkedin": {
+      "git": "https://github.com/fpoirier1/meteor-accounts-linkedin.git"
+    }
   }
 }
