@@ -7,7 +7,7 @@
   "git": "https://github.com/fpoirier1/meteor-accounts-linkedin.git",
   "packages": {
     "linkedin": {
-      "git": "https://github.com/fpoirier1/meteor-accounts-linkedin.git"
+      "git": "https://github.com/fpoirier1/meteor-linkedin.git"
     }
   }
 }
